@@ -6,17 +6,21 @@ An interactive and visually appealing data dashboard built using Streamlit and P
 
 * 📁 Upload Your Own Dataset
     Option to upload a custom CSV file with similar structure to the Netflix dataset.
+  
 * 🔍 Smart Filtering
     * Filter by content type (Movie or TV Show)
     * Select release year range using a slider
+      
 * 📈 Visualizations
     * Pie chart of Movies vs TV Shows
     * Line chart of content released over time
     * Bar chart of top countries
     * Rating distribution and content by decade
     * Top genres chart
+      
 * 📄 Summary Statistics & Insights
     Total titles, average release year, top country, common ratings, etc.
+  
 * 💾 Downloadable Data
     * Export filtered dataset as CSV
     * Download summary statistics as CSV
