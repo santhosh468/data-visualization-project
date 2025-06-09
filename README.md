@@ -71,9 +71,8 @@ The app will launch in your default browser at `http://localhost:8501/`.
 * All visualizations and metrics auto-update based on filters applied.
 * The app supports download of both filtered data and descriptive statistics.
 
-### 🧑‍💻 Author
+### 🧑‍💻 Author - Santhosh P
 
-Santhosh P
 To reach out or fork the project for customization [click here](mailto:santhoshpakkiri550@gmail.com)
 
 ### 📜 License
